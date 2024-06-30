@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm", "Algorithm\Algo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed_String", "Reversed_String\Reversed_String.csproj", "{69623E64-C5D1-4E53-B246-9611F1F3283F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Couple_Integer", "Couple_Integer\Couple_Integer.csproj", "{D5A90A42-344C-4088-99E6-266E67F10A3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Couple_Integer", "Couple_Integer\Couple_Integer.csproj", "{D5A90A42-344C-4088-99E6-266E67F10A3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Absolute_Integer", "Absolute_Integer\Absolute_Integer.csproj", "{0EEF8240-F3A0-46A1-81D9-6A0590299592}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Absolute_Integer", "Absolute_Integer\Absolute_Integer.csproj", "{0EEF8240-F3A0-46A1-81D9-6A0590299592}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RR_Strings", "RR_Strings\RR_Strings.csproj", "{1568854E-A807-4A87-90ED-87D0AC2AED6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RR_Strings", "RR_Strings\RR_Strings.csproj", "{1568854E-A807-4A87-90ED-87D0AC2AED6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consonant", "Consonant\Consonant.csproj", "{A8E3DEA8-C647-4D51-A57B-F3BEFA18608D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consonant", "Consonant\Consonant.csproj", "{A8E3DEA8-C647-4D51-A57B-F3BEFA18608D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting_Application", "Voting_Application\Voting_Application.csproj", "{CC1502D4-11F3-47FC-B61B-D6C987AA6845}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{A8E3DEA8-C647-4D51-A57B-F3BEFA18608D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8E3DEA8-C647-4D51-A57B-F3BEFA18608D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8E3DEA8-C647-4D51-A57B-F3BEFA18608D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1502D4-11F3-47FC-B61B-D6C987AA6845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1502D4-11F3-47FC-B61B-D6C987AA6845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1502D4-11F3-47FC-B61B-D6C987AA6845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1502D4-11F3-47FC-B61B-D6C987AA6845}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
